@@ -19,10 +19,15 @@ JATE is a text editor progressive web application built using Node, Express, and
 
 ## Installation
 
-Fork or clone the repository to your local machine using ```git clone```. Open the project in your IDE, head to then terminal and run ```npm install``` to get install necessary dependecies for the project. Then, run the command ```npm run start:dev``` to start the development server, or run ```npm start``` to get the project started locally. The application should now be up an running on ```PORT: 3000```. Head to http://localhost:3000/ in the browser to use.
+Fork or clone the repository to your local machine using ```git clone```. Open the project in your IDE, head to then terminal and run ```npm install``` to get install necessary dependecies for the project. 
 
 ## Usage
 
+View the deployed application [here!](https://jate-text-editor-kpic.onrender.com/)
+
+Once installed, run the command ```npm run start:dev``` to start the development server, or run ```npm start``` to get the project started locally. The application should now be up an running on ```PORT: 3000```. Head to http://localhost:3000/ in the browser to use.
+
+<img alt="screenshot" src="./client/src/images/Screenshot 2024-02-14 at 10.07.08 PM.png">
 
 
 ## License 
